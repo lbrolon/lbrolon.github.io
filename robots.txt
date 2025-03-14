@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lbrolon.github.io/al-folio/sitemap.xml
+Sitemap: https://lbrolon.github.io/sitemap.xml
