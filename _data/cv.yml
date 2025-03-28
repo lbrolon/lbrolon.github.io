@@ -2,20 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Lucie Brolon
     - name: Languages
-      value: English, German
+      value: Franch (native), English (Advanced), German (Intermediate)
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Université Paris Cité, Paris, France
+      year: 2023 - present
       description:
-        - Description 1.
+        - Test
         - Description 2.
         - title: Description 3.
           contents:
