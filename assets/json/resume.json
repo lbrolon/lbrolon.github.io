@@ -43,16 +43,16 @@
     },
     {
       "name": "Internship, statistical biomarkers",
-      "startDate": "march 2021",
-      "endDate": "september 2021",
+      "startDate": "mar.2021",
+      "endDate": "sep.2021",
       "location": "Paris, France",
       "institution": "Sanofi R&D",
       "summary": "Performance evaluation of different models (ANOVA, ANCOVA, LIMMA) for the identification of pharmacodynamic biomarkers in clinical trials. Study by data simulation."
     },
     {
       "name": "Internship, statistics",
-      "startDate": "january 2020",
-      "endDate": "march 2020",
+      "startDate": "jan.2020",
+      "endDate": "mar.2020",
       "location": "Rennes, France",
       "institution": "Ouest-France",
       "summary": "Implementing customer segmentation, developing dashboards for the businessteam in Tableau Software."
