@@ -4,7 +4,7 @@
     "label": "PhD Student", 
     "image": "",
     "email": "lucie.brolon at math.cnrs.fr",
-    "summary": "I am a PhD student at the Université Paris Cité, working on the modelling of Dendritic cells - T cells communication.",
+    "summary": "I am a PhD student at Université Paris Cité, working on the modelling of Dendritic cells - T cells communication.",
     "location": {
       "address": "45 rue des Saints-Pères",
       "postalCode": "75006",
@@ -12,7 +12,7 @@
       "countryCode": "FR"
     }
   },
-  "Professional experience": [
+  "experience": [
     {
       "name": "PhD, applied mathematics",
       "startDate": "2023",
@@ -65,7 +65,10 @@
       "studyType": "Msc in Public Health Research",
       "startDate": "2020",
       "endDate": "2021",
-      "summary": "Specialization epidemiology and clinical pharmacology. Dual degree in conjunction with studies at ENSAI."
+      "highlights": [
+        "Master in Public Health Research, with a specialization in epidemiology and clinical pharmacology.",
+        "Dual degree in conjunction with studies at ENSAI."
+      ]
     },
     {
       "institution": "ENSAI",
@@ -73,19 +76,21 @@
       "studyType": "Msc in Statistics and Data Analysis",
       "startDate": "2018",
       "endDate": "2021",
-      "summary": "National School for Statistics and Data Analysis / Ecole nationale de la Statistique et de l'Analyse de l'Information."
+      "highlights": ["National School for Statistics and Data Analysis / Ecole nationale de la Statistique et de l'Analyse de l'Information."]
     }
   ],
   "certificates": [
     {
       "name": "SAS Enterprise Guide for Experienced SAS Programmers",
       "date": "november 2021",
-      "issuer": "SAS"
+      "issuer": "SAS",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Machine Learning with Python",
       "date": "june 2021",
-      "issuer": "Coursera"
+      "issuer": "Coursera",
+      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
