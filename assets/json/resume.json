@@ -12,7 +12,7 @@
       "countryCode": "FR"
     }
   },
-  "experience": [
+  "work": [
     {
       "name": "PhD, applied mathematics",
       "startDate": "2023",
@@ -82,13 +82,13 @@
   "certificates": [
     {
       "name": "SAS Enterprise Guide for Experienced SAS Programmers",
-      "date": "november 2021",
+      "date": "2021",
       "issuer": "SAS",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Machine Learning with Python",
-      "date": "june 2021",
+      "date": "2021",
       "issuer": "Coursera",
       "icon": "fa-solid fa-clipboard-check"
     }
