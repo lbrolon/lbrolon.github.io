@@ -455,7 +455,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/lucie-brolon", "_blank");
+          window.open("https://www.linkedin.com/in/lucie-brolon-ba6b6a194", "_blank");
         },
       },{
         id: 'social-scholar',
