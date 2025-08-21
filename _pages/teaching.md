@@ -1,12 +1,17 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: #Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### IUT de Paris - Rives de Seine | Université Paris Cité
 
-Organize your courses by years, topics, or universities, however you like!
+#### 2023-present
+Teaching assignment (64 hours).
+
+- Semester 1: Practical sessions in **statistical programming with R** for second-year undergraduate students (**L2**), in both the apprenticeship and the standard tracks. Course coordinator, responsible for teaching materials and assessments.
+
+- Semester 2: Practical sessions in **regression with R** for first-year undergraduate students (**L1**). 
