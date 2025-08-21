@@ -635,4 +635,8 @@ jsonresume:
   - skills
   - languages
   - interests
+  - id: academicInterests
+    name: Academic Interests
+  - id: otherInterests
+    name: Other Interests
   - references
