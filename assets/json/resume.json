@@ -2,7 +2,6 @@
   "General Information": {
     "name": "Lucie Brolon",
     "label": "PhD Student", 
-    "image": "",
     "email": "lucie.brolon at math.cnrs.fr",
     "languages": "French (native), English (advanced), German (intermediate)"
   },
@@ -13,7 +12,7 @@
       "endDate": "present",
       "location": "Paris, France",
       "institution": "Université Paris Cité",
-      "summary": "Subject: Modelling and statistical analysis of communication between T lymphcellsocytes and dendritic cells. Under the supervision of Fabien Crauste and Marie Perrot-Dockes.",
+      "summary": "Subject: Modelling and statistical analysis of communication between T-cells and dendritic cells. Under the supervision of Fabien Crauste and Marie Perrot-Dockes.",
       "highlights": [
         "Applied Mathematics",
         "Random Forest",
@@ -37,19 +36,19 @@
     },
     {
       "name": "Internship, statistical biomarkers",
-      "startDate": "mar.2021",
-      "endDate": "sep.2021",
+      "startDate": "2021",
+      "endDate": "2021",
       "location": "Paris, France",
       "institution": "Sanofi R&D",
-      "summary": "Performance evaluation of different models (ANOVA, ANCOVA, LIMMA) for the identification of pharmacodynamic biomarkers in clinical trials. Study by data simulation."
+      "summary": "Performance evaluation of different models (ANOVA, ANCOVA, LIMMA) for the identification of pharmacodynamic biomarkers in clinical trials. Study by data simulation. 6-month internship."
     },
     {
       "name": "Internship, statistics",
-      "startDate": "jan.2020",
-      "endDate": "mar.2020",
+      "startDate": "2020",
+      "endDate": "2020",
       "location": "Rennes, France",
       "institution": "Ouest-France",
-      "summary": "Implementing customer segmentation, developing dashboards for the businessteam in Tableau Software."
+      "summary": "Implementing customer segmentation, developing dashboards for the businessteam in Tableau Software. 3-month internship."
     }
   ],
   "education": [
@@ -70,7 +69,7 @@
       "studyType": "Msc in Statistics and Data Analysis",
       "startDate": "2018",
       "endDate": "2021",
-      "highlights": ["National School for Statistics and Data Analysis / Ecole nationale de la Statistique et de l'Analyse de l'Information."]
+      "highlights": ["National School for Statistics and Data Analysis / Ecole nationale de la Statistique et de l'Analyse de l'Information. French engineering degree."]
     }
   ],
   "certificates": [
