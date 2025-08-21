@@ -124,8 +124,17 @@
       "name": "Biostatistics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Immunology",
-        "Epidemiology"
+        "Application in immunology",
+        "Application in epidemiology"
+      ]
+    },
+    {
+      "name": "Supervised learning",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Random Forest",
+        "Simulation study",
+        "Interpretable algorithm"
       ]
     }
   ],
