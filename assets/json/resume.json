@@ -138,23 +138,23 @@
       ]
     }
   ],
-"otherInterests": [
-  {
-    "name": "Musique",
-    "icon": "fa-solid fa-music",
-    "keywords": ["Piano", "Guitar", "Group play (pop and rock)"]
-  },
-  {
-    "name": "Creative hobbies",
-    "icon": "fa-solid fa-paint-brush"
-  },
-  {
-    "name": "Handball",
-    "icon": "fa-solid fa-volleyball-ball"
-  },
-  {
-    "name": "Roller",
-    "icon": "fa-solid fa-person-skating"
-  }
-]
+  "otherInterests": [
+    {
+      "name": "Musique",
+      "icon": "fa-solid fa-music",
+      "keywords": ["Piano", "Guitar", "Group play (pop and rock)"]
+    },
+    {
+      "name": "Creative hobbies",
+      "icon": "fa-solid fa-paint-brush"
+    },
+    {
+      "name": "Handball",
+      "icon": "fa-solid fa-volleyball-ball"
+    },
+    {
+      "name": "Roller",
+      "icon": "fa-solid fa-person-skating"
+    }
+  ]
 }
