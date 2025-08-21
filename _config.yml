@@ -633,6 +633,7 @@ jsonresume:
   - awards
   - certificates
   - skills
+  - test
   - languages
   - academicInterests
   - otherInterests

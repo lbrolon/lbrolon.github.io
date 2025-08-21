@@ -119,6 +119,17 @@
       ]
     }
   ],
+  "test": [
+    {
+      "name": "test",
+      "level": "test",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "test",
+        "test"
+      ]      
+    }
+  ],
   "academicInterests": [
     {
       "name": "Biostatistics",
