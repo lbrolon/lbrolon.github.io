@@ -634,9 +634,6 @@ jsonresume:
   - certificates
   - skills
   - languages
-  - interests
-  - id: academicInterests
-    name: Academic Interests
-  - id: otherInterests
-    name: Other Interests
+  - academicInterests
+  - otherInterests
   - references
