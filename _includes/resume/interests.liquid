@@ -1,6 +1,6 @@
 <h5 class="section-title">Academic Interests</h5>
 <div class="list-groups">
-  {% for content in data.academicInterests %}
+  {% for content in data[1].academicInterests %}
     <div class="list-group col-md-6">
       <table class="table-cv list-group-table">
         <tbody>
@@ -34,7 +34,7 @@
 
 <h5 class="section-title">Other Interests</h5>
 <div class="list-groups">
-  {% for content in data.otherInterests %}
+  {% for content in data[1].otherInterests %}
     <div class="list-group col-md-6">
       <table class="table-cv list-group-table">
         <tbody>
