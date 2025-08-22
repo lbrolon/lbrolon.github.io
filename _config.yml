@@ -628,7 +628,8 @@ jsonresume:
   - work
   - education
   - publications
-  - scientificInvolvement
+  - id: scientificInvolvement
+    name: Scientific Involvement
   - projects
   - volunteer
   - awards

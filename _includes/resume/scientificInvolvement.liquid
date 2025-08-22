@@ -1,27 +1,15 @@
-<h5 class="section-title">Scientific Involvement</h5>
-<ul class="card-text font-weight-light list-group list-group-flush">
-  {% assign involvement = data[1] | sort: 'date' | reverse %}
-  {% for content in involvement %}
-    <li class="list-group-item">
-      <div class="row">
-        <div class="col-xs-2 col-sm-2 col-md-2 text-center date-column">
-          <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
-            {{ content.date }}
-          </span>
-        </div>
-        <div class="col-xs-10 col-sm-10 col-md-10 mt-2 mt-md-0">
-          <h6 class="title font-weight-bold ml-1 ml-md-4">
-            {{ content.name }}
-          </h6>
-          {% if content.institution %}
-            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ content.institution }}</h6>
-          {% endif %}
-          {% if content.summary %}
-            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.summary }}</h6>
-          {% endif %}
-        </div>
-      </div>
-    </li>
+<div class="list-groups">
+  {% assign section = site.data.resume.scientificInvolvement %}
+  {% for content in section %}
+    <div class="list-group col-md-12">
+      <table class="table-cv list-group-table">
+        <tbody>
+          <tr>
+            <td class="list-group-category">{{ content.date }}</td>
+            <td class="list-group-name"><b>{{ content.description }}</b></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   {% endfor %}
-</ul>
-
+</div>
