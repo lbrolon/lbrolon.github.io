@@ -1,16 +1,24 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
-  {% assign entries = data[1].scientificInvolvement | sort: 'startDate' | reverse %}
-  {% for content in entries %}
+  {% assign scientific = data[1].scientificInvolvement | sort: 'endDate' | reverse %}
+  {% for content in scientific %}
     <li class="list-group-item">
       <div class="row">
         <div class="col-xs-2 col-sm-2 col-md-2 text-center date-column">
-          {% assign startYear = content.startDate | slice: 0, 4 %}
-          {% assign endYear = content.endDate | slice: 0, 4 | default: 'Present' %}
+          {% if content.startDate %}
+            {% assign startYear = content.startDate | slice: 0, 4 %}
+            {% if content.endDate and content.endDate != '' %}
+              {% assign endYear = content.endDate | slice: 0, 4 %}
+            {% else %}
+              {% assign endYear = 'Present' %}
+            {% endif %}
 
-          {% if startYear == endYear %}
-            {% assign date = startYear %}
+            {% if startYear == endYear %}
+              {% assign date = startYear %}
+            {% else %}
+              {% assign date = startYear | append: '–' | append: endYear %}
+            {% endif %}
           {% else %}
-            {% assign date = startYear | append: '–' | append: endYear %}
+            {% assign date = '' %}
           {% endif %}
 
           <table class="table-cv">
@@ -22,14 +30,36 @@
                   </span>
                 </td>
               </tr>
+              {% if content.location %}
+                <tr>
+                  <td>
+                    <p class="location">
+                      <i class="fa-solid fa-location-dot iconlocation"></i>
+                      {{ content.location }}
+                    </p>
+                  </td>
+                </tr>
+              {% endif %}
             </tbody>
           </table>
         </div>
 
         <div class="col-xs-10 col-sm-10 col-md-10 mt-2 mt-md-0">
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">
-            {{ content.details }}
+          <h6 class="title font-weight-bold ml-1 ml-md-4">
+            {{ content.title }}
           </h6>
+          {% if content.details %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">
+              {{ content.details }}
+            </h6>
+          {% endif %}
+          {% if content.highlights %}
+            <ul class="items">
+              {% for item in content.highlights %}
+                <li><span class="item">{{ item }}</span></li>
+              {% endfor %}
+            </ul>
+          {% endif %}
         </div>
       </div>
     </li>

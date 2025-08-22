@@ -96,34 +96,39 @@
   ],
   "scientificInvolvement": [
     {
+      "startDate": "2024-06",
+      "endDate": "2025-06",
+      "title": "Intervenante Stages Math C pour L",
+      "details": "Stages co-organisés par la SFdS, la SMAI et la SMF à destination des étudiantes de licences afin de leur faire découvrir la recherche en mathématiques.",
+      "highlights": []
+    },
+    {
       "startDate": "2025-06",
       "endDate": "2025-06",
-      "details": "Presentation of classification algorithms in an accessible way for high school trainees hosted at the MAP5 laboratory."
+      "title": "Présentation vulgarisée des algorithmes de classification",
+      "details": "Présentations auprès des stagiaires de seconde accueillis au laboratoire MAP5.",
+      "highlights": []
     },
     {
       "startDate": "2025-03",
       "endDate": "2025-03",
-      "details": "Workshop with two first-year classes at Lycée Jean-Macé de Rennes on the topic 'Becoming a scientist: a gendered choice?'"
-    },
-    {
-      "startDate": "2024-10",
-      "endDate": "present",
-      "details": "Elected to the laboratory council to represent PhD students."
+      "title": "Intervention au lycée Jean-Macé de Rennes",
+      "details": "Deux classes de 1ère autour de la question « Devenir scientifique : un choix genré ? ».",
+      "highlights": []
     },
     {
       "startDate": "2024-02",
       "endDate": "2024-02",
-      "details": "Intervention at the speed-meeting organized at MAP5 laboratory as part of the 'For Girls in Science' program by the L’Oréal Foundation."
+      "title": "Intervention au speed-meeting MAP5",
+      "details": "Dans le cadre du programme « For Girls in Science » de la fondation L’Oréal.",
+      "highlights": []
     },
     {
-      "startDate": "2024-01",
-      "endDate": "2025-12",
-      "details": "Regular participation in online speed-meetings of the Women and Mathematics association aimed at high school students."
-    },
-    {
-      "startDate": "2024-06",
-      "endDate": "2025-06",
-      "details": "Lecturer for Math C internships for undergraduate students, co-organized by SFdS, SMAI, and SMF, to introduce students to mathematical research."
+      "startDate": "2024-10",
+      "endDate": "Present",
+      "title": "Élue au conseil du laboratoire",
+      "details": "Pour représenter les doctorant.e.s.",
+      "highlights": []
     }
   ],
   "skills": [
