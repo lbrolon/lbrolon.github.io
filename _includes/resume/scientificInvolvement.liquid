@@ -1,5 +1,6 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
   {% assign scientific = site.data.resume.scientificInvolvement | sort: 'endDate' | reverse %}
+  <p>Nombre d'éléments : {{ site.data.resume.scientificInvolvement | size }}</p>
   {% for content in scientific %}
     <li class="list-group-item">
       <div class="row">
