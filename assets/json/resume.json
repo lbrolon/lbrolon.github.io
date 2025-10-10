@@ -53,6 +53,16 @@
   ],
   "education": [
     {
+      "institution": "Université Paris Cité",
+      "location": "Paris, France",
+      "studyType": "PhD in applied mathematics",
+      "startDate": "2023",
+      "endDate": "2026",
+      "highlights": [
+        "Subject: Modelling and statistical analysis of communication between T-cells and dendritic cells. Under the supervision of Fabien Crauste and Marie Perrot-Dockes."
+      ]
+    },
+    {
       "institution": "Université de Rennes I",
       "location": "Rennes, France",
       "studyType": "Msc in Public Health Research",
