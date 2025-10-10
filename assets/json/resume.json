@@ -95,41 +95,43 @@
     }
   ],
   "scientificInvolvement": [
-    {
-      "startDate": "2024-06",
-      "endDate": "2025-06",
-      "title": "Intervenante Stages Math C pour L",
-      "details": "Stages co-organisés par la SFdS, la SMAI et la SMF à destination des étudiantes de licences afin de leur faire découvrir la recherche en mathématiques.",
-      "highlights": []
-    },
-    {
-      "startDate": "2025-06",
-      "endDate": "2025-06",
-      "title": "Présentation vulgarisée des algorithmes de classification",
-      "details": "Présentations auprès des stagiaires de seconde accueillis au laboratoire MAP5.",
-      "highlights": []
-    },
-    {
-      "startDate": "2025-03",
-      "endDate": "2025-03",
-      "title": "Intervention au lycée Jean-Macé de Rennes",
-      "details": "Deux classes de 1ère autour de la question « Devenir scientifique : un choix genré ? ».",
-      "highlights": []
-    },
-    {
-      "startDate": "2024-02",
-      "endDate": "2024-02",
-      "title": "Intervention au speed-meeting MAP5",
-      "details": "Dans le cadre du programme « For Girls in Science » de la fondation L’Oréal.",
-      "highlights": []
-    },
-    {
-      "startDate": "2024-10",
-      "endDate": "Present",
-      "title": "Élue au conseil du laboratoire",
-      "details": "Pour représenter les doctorant.e.s.",
-      "highlights": []
-    }
+  {
+    "name": "Intervenante Stages Math C pour L",
+    "startDate": "2024-06",
+    "endDate": "2025-06",
+    "location": "",
+    "institution": "",
+    "summary": "Stages co-organisés par la SFdS, la SMAI et la SMF à destination des étudiantes de licences afin de leur faire découvrir la recherche en mathématiques.",
+    "highlights": []
+  },
+  {
+    "name": "Présentation vulgarisée des algorithmes de classification",
+    "startDate": "2025-06",
+    "endDate": "2025-06",
+    "summary": "Présentations auprès des stagiaires de seconde accueillis au laboratoire MAP5.",
+    "highlights": []
+  },
+  {
+    "name": "Intervention au lycée Jean-Macé de Rennes",
+    "startDate": "2025-03",
+    "endDate": "2025-03",
+    "summary": "Dans deux classes de 1ère autour de la question « Devenir scientifique : un choix genré ? ».",
+    "highlights": []
+  },
+  {
+    "name": "Intervention au speed-meeting MAP5",
+    "startDate": "2024-02",
+    "endDate": "2024-02",
+    "summary": "Dans le cadre du programme « For Girls in Science » de la fondation L’Oréal.",
+    "highlights": []
+  },
+  {
+    "name": "Élue au conseil du laboratoire",
+    "startDate": "2024-10",
+    "endDate": "Present",
+    "summary": "Pour y représenter les doctorant·e·s.",
+    "highlights": []
+  }
   ],
   "skills": [
     {
