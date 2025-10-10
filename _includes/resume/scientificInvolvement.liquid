@@ -1,5 +1,5 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
-  {% assign scientific = data[1].scientificInvolvement | sort: 'endDate' | reverse %}
+  {% assign scientific = site.data.resume.scientificInvolvement | sort: 'endDate' | reverse %}
   {% for content in scientific %}
     <li class="list-group-item">
       <div class="row">
