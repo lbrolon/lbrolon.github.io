@@ -16,6 +16,7 @@
       "highlights": [
         "Applied Mathematics",
         "Random Forest",
+        "Simulation Study",
         "Immunology",
         "R, Python Programming"
       ]
@@ -40,7 +41,11 @@
       "endDate": "2021",
       "location": "Paris, France",
       "institution": "Sanofi R&D",
-      "summary": "Performance evaluation of different models (ANOVA, ANCOVA, LIMMA) for the identification of pharmacodynamic biomarkers in clinical trials. Study by data simulation. 6-month internship."
+      "summary": "Performance evaluation of different models (ANOVA, ANCOVA, LIMMA) for the identification of pharmacodynamic biomarkers in clinical trials. Study by data simulation. 6-month internship.",
+      "highlights": [
+        "Simulation Study",
+        "R programming"
+      ]
     },
     {
       "name": "Internship, statistics",
@@ -48,7 +53,11 @@
       "endDate": "2020",
       "location": "Rennes, France",
       "institution": "Ouest-France",
-      "summary": "Implementing customer segmentation, developing dashboards for the businessteam in Tableau Software. 3-month internship."
+      "summary": "Implementing customer segmentation, developing dashboards for the businessteam in Tableau Software. 3-month internship.",
+      "highlights": [
+        "Tableau Software",
+        "Data Vizualisation"
+      ]
     }
   ],
   "education": [
@@ -168,7 +177,7 @@
       "icon": "fa-solid fa-code",
       "keywords": [
         "R (advanced)",
-        "Python (advanced)",
+        "Python (intermediate)",
         "SAS (advanced)",
         "SQL (beginner)",
         "C++ (beginner)"
