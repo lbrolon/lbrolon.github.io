@@ -106,40 +106,47 @@
   ],
   "scientificInvolvement": [
   {
-    "name": "Intervenante Stages Math C pour L",
+    "name": "Speaker, “Math C pour L” Workshops",
     "startDate": "2024-06",
     "endDate": "2025-06",
     "location": "",
     "institution": "",
-    "summary": "Stages co-organisés par la SFdS, la SMAI et la SMF à destination des étudiantes de licences afin de leur faire découvrir la recherche en mathématiques.",
+    "summary": "Workshops co-organized by the SFdS, SMAI, and SMF for female undergraduate students, aimed at introducing them to various aspects of mathematical research and encouraging them to consider careers in this field.",
     "highlights": []
   },
   {
-    "name": "Présentation vulgarisée des algorithmes de classification",
+    "name": "Outreach Talk on Classification Algorithms",
     "startDate": "2025-06",
     "endDate": "2025-06",
-    "summary": "Présentations auprès des stagiaires de seconde accueillis au laboratoire MAP5.",
+    "summary": "Gave an accessible presentation on classification algorithms to high school interns hosted at the MAP5 laboratory.",
     "highlights": []
   },
   {
-    "name": "Intervention au lycée Jean-Macé de Rennes",
+    "name": "High School Outreach, Lycée Jean-Macé, Rennes",
     "startDate": "2025-03",
     "endDate": "2025-03",
-    "summary": "Dans deux classes de 1ère autour de la question « Devenir scientifique : un choix genré ? ».",
+    "summary": "Led two sessions with 11th-grade classes on the topic “Becoming a Scientist: A Gendered Choice?”",
     "highlights": []
   },
   {
-    "name": "Intervention au speed-meeting MAP5",
+    "name": "Participant, “For Girls in Science” MAP5 Speed-Meeting",
     "startDate": "2024-02",
     "endDate": "2024-02",
-    "summary": "Dans le cadre du programme « For Girls in Science » de la fondation L’Oréal.",
+    "summary": "Took part in a discussion session with female students, highlighting the diversity of women’s career paths in science and research.",
     "highlights": []
   },
   {
-    "name": "Élue au conseil du laboratoire",
+    "name": "Regular Speaker, Femmes et Mathématiques Online Speed-Meetings",
+    "startDate": "2024-09",
+    "endDate": "2025-07",
+    "summary": "Participated regularly in online sessions organized by the Femmes et Mathématiques association, aimed at inspiring female high school students to pursue studies in mathematics.",
+    "highlights": []
+  },
+  {
+    "name": "Elected Member, MAP5 Laboratory Council",
     "startDate": "2024-10",
     "endDate": "Present",
-    "summary": "Pour y représenter les doctorant·e·s.",
+    "summary": "Elected to represent PhD students on the laboratory’s council.",
     "highlights": []
   }
   ],
