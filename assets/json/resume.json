@@ -106,13 +106,25 @@
     }
   ],
   "publications": [
-    {
-      "name": "Trends in hospitalisations for lower respiratory tract infection after the COVID-19 pandemic in adults with chronic respiratory disease",
-      "publisher": "Journal of Infection",
-      "releaseDate": "2024",
-      "url": "https://www.journalofinfection.com/article/S0163-4453(24)00221-4/fulltext"
-    }
-  ],
+  {
+    "name": "Linear Modeling, Random Forests and Interpretability: SPLIM, Stable Piecewise Linear Interpretable Model",
+    "publisher": "HAL Preprint",
+    "releaseDate": "2026",
+    "url": "https://cnrs.hal.science/hal-05594273v1"
+  },
+  {
+    "name": "One-year healthcare trajectories after COVID-19 hospitalisation in patients with chronic respiratory diseases: a nationwide study",
+    "publisher": "BMJ Open Respiratory Research",
+    "releaseDate": "2025",
+    "url": "https://doi.org/10.1136/bmjresp-2025-003580"
+  },
+  {
+    "name": "Trends in hospitalisations for lower respiratory tract infection after the COVID-19 pandemic in adults with chronic respiratory disease",
+    "publisher": "Journal of Infection",
+    "releaseDate": "2024",
+    "url": "https://www.journalofinfection.com/article/S0163-4453(24)00221-4/fulltext"
+  }
+],
   "scientificInvolvement": [
   {
     "name": "Speaker, “Math C pour L” Workshops",
