@@ -103,6 +103,12 @@
       "date": "2021",
       "issuer": "Coursera",
       "icon": "fa-solid fa-clipboard-check"
+    },
+        {
+      "name": "SNIIRAM SNDS Données d’extraction DCIR pour les accès sur projet",
+      "date": "2021",
+      "issuer": "Institut 4.10",
+      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
