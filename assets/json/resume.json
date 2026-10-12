@@ -7,7 +7,19 @@
   },
   "work": [
     {
-      "name": "PhD, applied mathematics",
+      "name": "Temporary Teaching and Research Assistant (ATER)",
+      "startDate": "2026",
+      "endDate": "2027",
+      "location": "Paris, France",
+      "institution": "Université Paris Cité",
+      "summary": "Teaching in the Master's program in Public Health at the Faculty of Pharmacy",
+      "highlights": [
+        "R, Python, SQL Programming",
+        "Random Forest"
+      ]
+    },
+    {
+      "name": "PhD in applied mathematics",
       "startDate": "2023",
       "endDate": "present",
       "location": "Paris, France",
@@ -117,6 +129,12 @@
     "publisher": "HAL Preprint",
     "releaseDate": "2026",
     "url": "https://cnrs.hal.science/hal-05594273v1"
+  },
+  {
+    "name": "Differential impact of the pandemic first wave on chronic respiratory diseases in France",
+    "publisher": "Respiratory Medicine and Research",
+    "releaseDate": "2026",
+    "url": "https://doi.org/10.1016/j.resmer.2026.101287"
   },
   {
     "name": "One-year healthcare trajectories after COVID-19 hospitalisation in patients with chronic respiratory diseases: a nationwide study",
